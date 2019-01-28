@@ -1,0 +1,19 @@
+textarea {
+  width: 100%;
+  min-height: 250px;
+  overflow: scroll;
+  margin-left: 3%;
+  display: inline-block;
+  background: #1C1D21;
+  outline: none;
+  font-family: Courier, sans-serif;
+  font-size: 14px;
+  color: white;
+}
+
+iframe {
+  bottom: 0;
+  position: relative;
+  width: 98%;
+  height: 48em;
+}
